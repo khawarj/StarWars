@@ -1,0 +1,1 @@
+Star Wars Search Api with limit to 15 searches per minute for all except Luke Skywalker

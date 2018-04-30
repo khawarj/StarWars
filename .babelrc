@@ -1,0 +1,10 @@
+{
+  "presets": [ "react", "es2015" ],
+  "env": {
+    "development": {
+      "presets": [
+        "react-hmre" //bundles code regarding hot-module replacement
+      ]
+    }
+  }
+}
